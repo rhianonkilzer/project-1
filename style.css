@@ -1,7 +1,16 @@
-.header{
+header{
 background-color: blue;
+height: 83px;
+margin: 12px;
+color: white;
+font-size: 50px
 }
 
-.footer{
+footer{
     background-color: blue;
+    height: 83px;
+    margin: 12px;
+}
+h1 {
+    background-color: lightblue;
 }
